@@ -1,2 +1,2 @@
 # Vendor-Performance-Data-Analytics-End-to-End-Project
-![Vendor Dashboard Preview](vendor dash.png)
+![Vendor Dashboard Preview](vendor_dash.png)
